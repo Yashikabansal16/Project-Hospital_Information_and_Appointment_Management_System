@@ -7,7 +7,7 @@ This system is suitable for small clinics, diagnostic centers, or hospitals wher
 # Repository Structure
 ### Hospital-Management-System/
 Hospital-Management-System/
-|
+---
 |-- src/                          
 |     |-- main.c                  
 |     |-- patient.c               
@@ -36,7 +36,7 @@ Hospital-Management-System/
 |-- sample_input.txt              
 |
 |-- README.md                     
-       
+---       
 
 
 
