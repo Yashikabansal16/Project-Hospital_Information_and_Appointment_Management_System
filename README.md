@@ -5,7 +5,7 @@ The project demonstrates the use of structures, file handling, modular programmi
 
 This system is suitable for small clinics, diagnostic centers, or hospitals where systematic record-keeping is required.
 # Repository Structure
-### ```    
+ ```    
 Hospital-Management-System/
 |
 |-- src/
