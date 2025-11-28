@@ -1,1 +1,1 @@
-# Project-Hospital_Information_and_Appointment_Management_System
+# Hospital_Information_and_Appointment_Management_System
