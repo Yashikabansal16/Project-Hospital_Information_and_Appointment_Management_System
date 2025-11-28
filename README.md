@@ -8,24 +8,24 @@ This system is suitable for small clinics, diagnostic centers, or hospitals wher
 ### Hospital-Management-System/
 Hospital-Management-System/
 |
-|-- src/                          # All .c source files
-|     |-- main.c                  # main() with menu handling
-|     |-- patient.c               # add/search/update/delete patient
-|     |-- appointment.c           # book/cancel/view appointments
-|     |-- file_utils.c            # file handling logic (if any)
+|-- src/                          
+|     |-- main.c                  
+|     |-- patient.c               
+|     |-- appointment.c           
+|     |-- file_utils.c            
 |
-|-- include/                      # All .h header files
-|     |-- patient.h               # struct Patient, patient functions
-|     |-- appointment.h           # struct Appointment, functions
-|     |-- file_utils.h            # file helper function prototypes
+|-- include/                      
+|     |-- patient.h               
+|     |-- appointment.h           
+|     |-- file_utils.h            
 |
-|-- docs/                         # Project documentation
+|-- docs/                         
 |     |-- project_report.pdf
 |     |-- flowchart_patient.png
 |     |-- flowchart_appointment.png
 |     |-- architecture_diagram.png
 |
-|-- assets/                       # Optional images/screenshots
+|-- assets/                       
 |     |-- output_screenshot1.png
 |     |-- output_screenshot2.png
 |
