@@ -38,6 +38,10 @@ Hospital-Management-System/
 |-- README.md
 
 ```    
+# Getting Started
+### 1. A C compiler (GCC recommended)
+### 2. Any text editor (VS Code, Notepad++, etc.)
+
 
 
 
