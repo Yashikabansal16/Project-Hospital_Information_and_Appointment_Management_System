@@ -39,8 +39,8 @@ Hospital-Management-System/
 
 ```    
 # Getting Started
-### 1. A C compiler (GCC recommended)
-### 2. Any text editor (VS Code, Notepad++, etc.)
+## 1. A C compiler (GCC recommended)
+## 2. Any text editor (VS Code, Notepad++, etc.)
 
 
 
