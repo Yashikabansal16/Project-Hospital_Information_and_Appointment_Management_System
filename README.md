@@ -39,18 +39,18 @@ Hospital-Management-System/
 
 ```    
 # Getting Started
-#### 1. A C compiler (GCC recommended)
-#### 2. Any text editor (VS Code, Notepad++, etc.)
+##### 1. A C compiler (GCC recommended)
+##### 2. Any text editor (VS Code, Notepad++, etc.)
 # Build Instruction
-#### Step 1: Get a copy of the project (clone or download).
-#### Step 2: Open the project folder and move into the src directory.
-#### Step 3: Compile all source files to generate the executable.
-#### Step 4: Execute the compiled program to start the system.
+##### Step 1: Get a copy of the project (clone or download).
+##### Step 2: Open the project folder and move into the src directory.
+##### Step 3: Compile all source files to generate the executable.
+##### Step 4: Execute the compiled program to start the system.
 # Usage
-#### 1.Launch the program to access the main menu for managing patients and appointments.
-#### 2.Choose an option (add, search, update, delete) to perform patient-related operations.
-#### 3.Navigate to the appointment section to book, view, or cancel appointments.
-#### 4.Follow on-screen prompts and enter the required details to complete each action.
+##### 1.Launch the program to access the main menu for managing patients and appointments.
+##### 2.Choose an option (add, search, update, delete) to perform patient-related operations.
+##### 3.Navigate to the appointment section to book, view, or cancel appointments.
+##### 4.Follow on-screen prompts and enter the required details to complete each action.
 
 
 
