@@ -6,29 +6,37 @@ The project demonstrates the use of structures, file handling, modular programmi
 This system is suitable for small clinics, diagnostic centers, or hospitals where systematic record-keeping is required.
 # Repository Structure
 ### Hospital-Management-System/
+Hospital-Management-System/
 |
-|-- src/                         
-      |-- main.c                  
-      |-- patient.c               
-      |-- appointment.c           
-      |-- file_utils.c            
-|-- include/                     
-      |-- patient.h               
-      |-- appointment.h           
-      |-- file_utils.h            
-|-- docs/                         
-      |-- project_report.pdf
-      |-- flowchart_patient.png
-      |-- flowchart_appointment.png
-      |-- architecture_diagram.png
-|-- assets/                       
-      |-- output_screenshot1.png
-      |-- output_screenshot2.png
+|-- src/                          # All .c source files
+|     |-- main.c                  # main() with menu handling
+|     |-- patient.c               # add/search/update/delete patient
+|     |-- appointment.c           # book/cancel/view appointments
+|     |-- file_utils.c            # file handling logic (if any)
+|
+|-- include/                      # All .h header files
+|     |-- patient.h               # struct Patient, patient functions
+|     |-- appointment.h           # struct Appointment, functions
+|     |-- file_utils.h            # file helper function prototypes
+|
+|-- docs/                         # Project documentation
+|     |-- project_report.pdf
+|     |-- flowchart_patient.png
+|     |-- flowchart_appointment.png
+|     |-- architecture_diagram.png
+|
+|-- assets/                       # Optional images/screenshots
+|     |-- output_screenshot1.png
+|     |-- output_screenshot2.png
+|
 |-- data/                         
-      |-- patient.dat
-      |-- appoint.dat
+|     |-- patient.dat
+|     |-- appoint.dat
+|
 |-- sample_input.txt              
+|
 |-- README.md                     
+       
 
 
 
