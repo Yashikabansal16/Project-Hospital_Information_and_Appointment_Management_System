@@ -42,9 +42,10 @@ Hospital-Management-System/
 #### 1. A C compiler (GCC recommended)
 #### 2. Any text editor (VS Code, Notepad++, etc.)
 # Build Instruction
-#### Step 1: Navigate to the project folder in your terminal.
-#### Step 2: Compile the program using gcc src/*.c -I include -o hospital_app.
-#### Step 3: Run the executable using ./hospital_app.
+#### Step 1: Get a copy of the project (clone or download).
+#### Step 2: Open the project folder and move into the src directory.
+#### Step 3: Compile all source files to generate the executable.
+#### Step 4: Execute the compiled program to start the system.
 
 
 
