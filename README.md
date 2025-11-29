@@ -12,28 +12,43 @@ Hospital-Management-System/
 |     |-- main.c
 |     |-- patient.c
 |     |-- appointment.c
-|     |-- file_utils.c
 |
 |-- include/
 |     |-- patient.h
 |     |-- appointment.h
-|     |-- file_utils.h
 |
 |-- docs/
-|     |-- project_report.pdf
-|     |-- flowchart_patient.png
-|     |-- flowchart_appointment.png
-|     |-- architecture_diagram.png
+|     |-- PROJECT REPORT.pdf
+|     |-- flowchart.png
+|     |-- flowchart.txt
+|     |-- Algorithm.txt
+|     |-- Hospital_data.csv 
 |
 |-- assets/
-|     |-- output_screenshot1.png
-|     |-- output_screenshot2.png
+|     |-- output 1.png
+|     |-- output 2.png
+|     |-- output 3.png
+|     |-- output 4.png
+|     |-- output 5.png
+|     |-- output 6.png
+|     |-- output 7.png
+|     |-- output 8.png
+|     |-- output 9.png
 |
 |-- data/
 |     |-- patient.dat
 |     |-- appoint.dat
 |
-|-- sample_input.txt
+|-- sample_input/
+|     |-- input1
+|     |-- input1
+|     |-- input1
+|     |-- input1
+|     |-- input1
+|     |-- input1
+|     |-- input1
+|     |-- input1
+|     |-- input1
 |
 |-- README.md
 
