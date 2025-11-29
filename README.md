@@ -40,15 +40,15 @@ Hospital-Management-System/
 |     |-- appoint.dat
 |
 |-- sample_input/
-|     |-- input1
-|     |-- input1
-|     |-- input1
-|     |-- input1
-|     |-- input1
-|     |-- input1
-|     |-- input1
-|     |-- input1
-|     |-- input1
+|     |-- input1.txt
+|     |-- input2.txt
+|     |-- input3.txt
+|     |-- input4.txt
+|     |-- input5.txt
+|     |-- input6.txt
+|     |-- input7.txt
+|     |-- input8.txt
+|     |-- input9.txt
 |
 |-- README.md
 
