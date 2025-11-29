@@ -1,0 +1,13 @@
+===== Hospital Management System =====
+1. Add Patient
+2. Search Patient
+3. View All Patients
+4. Book Appointment
+5. View All Appointments
+6. Exit
+Enter Choice: 4
+Enter Patient ID: 2
+Enter Doctor Name: Dr.Kapoor
+Enter Date (DD-MM-YYYY): 02-12-2025
+Enter Time (HH:MM): 11:00
+
