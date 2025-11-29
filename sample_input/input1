@@ -1,0 +1,12 @@
+===== Hospital Management System =====
+1. Add Patient
+2. Search Patient
+3. View All Patients
+4. Book Appointment
+5. View All Appointments
+6. Exit
+Enter Choice: 1
+Enter Name: Neha Sharma
+Enter Age: 25
+Enter Gender: Female
+Enter Disease: Hypertension
