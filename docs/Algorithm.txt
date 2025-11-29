@@ -1,0 +1,50 @@
+1. Start the program
+  
+2. Display main menu:  
+➔ Add Patient 
+➔ View Patients 
+➔ Search Patient 
+➔ Book Appointment 
+➔ View Appointments 
+➔ Exit
+ 
+3. Input user choice.
+ 
+4. Perform action based on choice: 
+➔ Add Patient: 
+1. Open patient file in append mode. 
+2. Generate unique patient ID. 
+3. Input patient details (Name, Age, Gender, Disease). 
+4. Write record to file. 
+5. Close file and display success message.
+ 
+➔ View Patient: 
+1. Open patient file in read mode. 
+2. If empty, display “No patients found.” 
+3. Otherwise, display all patient records. 
+4. Close file
+
+➔ Search Patient:    
+1. Open patient file in read mode. 
+2. Input patient ID to search. 
+3. Read records and compare IDs. 
+4. If found, display details; else display “Not found.” 
+5. Close file.
+ 
+➔  Book Appointment:   
+1. Open appointment file in append mode. 
+2. Generate unique appointment ID. 
+3. Input details (Patient ID, Doctor, Date, Time). 
+4. Write record to file. 
+5. Close file and display success message. 
+
+➔ View Appointments: 
+1. Open appointment file in read mode. 
+2. If empty, display “No appointments found.” 
+3. Otherwise, display all appointment records. 
+4. Close file. 
+➔ Exit: Terminate the program.
+ 
+5. Repeat steps 2–4 until the user chooses to exit. 
+
+6. End.
